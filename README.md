@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## Meu nome é Iury, trabalho no front-end com js, ts no geral além de frameworks como react, chakra, vue e quasar e aprendendo um pouco do mundo backend com elixir ^^ 
+## Me chamo Iury, trabalho no front-end com js e ts no geral além de conhecer e ter experiencias com frameworks como react, chakra, vue e quasar. Na parte de back já trabalhei com C#, XHarbour e um pouco de Elixir. Espero ter ajudado ^^ 
 
 <div align="center">
   <a href="https://github.com/iuryfranca">
