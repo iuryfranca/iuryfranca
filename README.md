@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## Me chamo Iury, trabalho no front-end com javascript e typescript no geral além de conhecer e ter experiencias com frameworks como react, chakra, vue. Na parte de back já trabalhei com java na criação de api simples com o spring boot, C#, XHarbour e um pouco de Elixir. Espero ter ajudado ^^ 
+## Me chamo Iury, trabalho no front-end com javascript e typescript no geral além de conhecer e ter experiencias com frameworks como react, next, chakra, vue, quasar e etc. Na parte de back já trabalhei com java na criação de api simples com o spring boot, C#, XHarbour e um pouco de Elixir. :)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
