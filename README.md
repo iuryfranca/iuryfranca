@@ -25,5 +25,4 @@
 </div>
 
 <br/>
-
-<img src="https://i.pinimg.com/236x/4d/34/1c/4d341cb34a6d213d54832a22be494575.jpg" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iuryfranca&theme=aura_dark" />
